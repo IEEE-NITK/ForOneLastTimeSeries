@@ -19,3 +19,14 @@
 * Adithya Bhat (Purdue PhD) - PhD Admit Applications
 
 * Soundarya (NUS PhD) - PhD Admit Applications
+
+## 2019
+
+* Rakshith G (CMU MS; UCSB, UWiscMad - PhD) - Master's and PhD Applications
+
+* MM Vikram (MS CMU; UWiscMad - PhD) - Master's and PhD Applications
+
+* Vilas Bhat (MS CMU; Research Fellow - Microsoft Research) - Master's Applications and Off Campus Opportunities
+
+* Siddharth Gangwani (Microsoft, Google India) - Off Campus Opportunities
+
